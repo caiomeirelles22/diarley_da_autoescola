@@ -1,0 +1,163 @@
+[
+    {
+        "candidato": "Diarley",
+        "fotoPerfilPaisagem": "/onibus-cortada.jpg",
+        "fotoPerfilRetrato": "/diarley-e-wlad.jpeg",
+        "fotoNomeCamara": "/next.svg",
+        "sobreMimParagrafos": [
+            "Sou Diarley das Autoescolas, instrutor com mais de 15 anos de experiência na formação de motoristas. Ao longo da minha trajetória, tive a honra de preparar centenas de pessoas para enfrentarem o trânsito de maneira responsável e segura. Sempre acreditei que, além de ensinar a dirigir, minha missão é contribuir para um trânsito mais consciente.",
+            "Minha vida toda sempre me dediquei a ajudar o próximo e decidi esse ano concorrer a Vereador na nossa cidade Campos dos Goytacazes!"
+        ],
+        "oqueEsperar": "Na Câmara dos vereadores irei atuar pela reconstrução, e acreditamos que isso só será possível se ninguém ficar para trás. Por isso, trabalhamos por leis que tenham como horizonte o combate às desigualdades.",
+        "focos": [
+            {
+                "title": "Combate a fome",
+                "foto": "/fome.jpeg",
+                "intro": "A fome é uma realidade dolorosa que afeta muitas famílias em nossa cidade. É inaceitável que, em pleno século XXI, ainda tenhamos pessoas sofrendo por falta de alimento. Como candidato a vereador, estou comprometido em lutar para erradicar a fome e promover a segurança alimentar.",
+                "propostals": [
+                    "Criação de programas de distribuição de alimentos para famílias carentes.",
+                    "Incentivo à agricultura urbana para aumentar a produção local de alimentos.",
+                    "Parcerias com empresas e ONGs para garantir que todos tenham acesso a uma alimentação digna e saudável."
+                ]
+            },
+            {
+                "title": "Mobilidade urbana",
+                "foto": "/mobilidade-urbana.jpeg",
+                "intro": "A mobilidade urbana é um dos grandes desafios de nossa cidade. Precisamos de soluções inteligentes e sustentáveis para garantir que todos possam se deslocar com eficiência e segurança. Como candidato a vereador, estou comprometido em melhorar a mobilidade urbana e a qualidade de vida em nossa cidade.",
+                "propostals": [
+                    "Investimento em transporte público de qualidade, acessível e pontual.",
+                    "Criação de ciclovias e incentivo ao uso de bicicletas como meio de transporte.",
+                    "Desenvolvimento de calçadas acessíveis e seguras para pedestres.",
+                    "Promoção de soluções tecnológicas para otimizar o tráfego e reduzir congestionamentos."
+                ]
+            },
+            {
+                "title": "Agronegócio",
+                "foto": "/agro.jpeg",
+                "intro": "O agronegócio é um setor vital para nossa economia e desenvolvimento. Precisamos apoiar nossos produtores e promover práticas sustentáveis para garantir o crescimento contínuo deste setor. Como candidato a vereador, estou comprometido em fortalecer o agronegócio em nossa cidade.",
+                "propostals": [
+                    "Incentivo à agricultura sustentável e práticas de cultivo modernas.",
+                    "Apoio aos pequenos produtores rurais com programas de financiamento e assistência técnica.",
+                    "Investimento em infraestrutura para escoamento da produção agrícola.",
+                    "Promoção de feiras e mercados locais para valorizar os produtos regionais."
+                ]
+            },
+            {
+                "title": "Emprego e Renda",
+                "foto": "/emprego.webp",
+                "intro": "O crescimento econômico e a geração de empregos são fundamentais para melhorar a qualidade de vida em nossa cidade. Como candidato a vereador, estou comprometido em criar oportunidades de emprego e aumentar a renda das famílias.",
+                "propostals": [
+                    "Criação de programas de capacitação profissional para jovens e adultos.",
+                    "Incentivos fiscais para atrair novas empresas e gerar empregos.",
+                    "Apoio ao empreendedorismo local com acesso a crédito e consultoria.",
+                    "Promoção de feiras de emprego e parcerias com empresas para facilitar a contratação."
+                ]
+            },
+            {
+                "title": "Tecnologia e Inovação",
+                "foto": "/tech.jpeg",
+                "intro": "A tecnologia e a inovação são essenciais para o desenvolvimento sustentável e a competitividade de nossa cidade. Como candidato a vereador, estou comprometido em promover o avanço tecnológico e criar um ambiente propício para a inovação.",
+                "propostals": [
+                    "Incentivo à criação de startups e empresas de tecnologia.",
+                    "Parcerias com universidades e centros de pesquisa para fomentar a inovação.",
+                    "Apoio à inclusão digital com programas de acesso à internet e capacitação tecnológica.",
+                    "Investimento em infraestrutura tecnológica para modernizar a administração pública e os serviços oferecidos aos cidadãos."
+                ]
+            },
+            {
+                "title": "Saúde",
+                "foto": "/saude.jpeg",
+                "intro": "A saúde é um direito fundamental de todos os cidadãos. Como candidato a vereador, estou comprometido em melhorar o sistema de saúde em nossa cidade e garantir o acesso a serviços de qualidade para todos.",
+                "propostals": [
+                    "Investimento em infraestrutura e equipamentos médicos nos hospitais e unidades de saúde.",
+                    "Contratação de profissionais de saúde e melhoria das condições de trabalho.",
+                    "Promoção de campanhas de prevenção e conscientização sobre doenças e hábitos saudáveis.",
+                    "Apoio à saúde mental com ampliação dos serviços de psicologia e psiquiatria."
+                ]
+            },
+            {
+                "title": "Infraestrutura",
+                "foto": "/ingra.jpeg",
+                "intro": "A infraestrutura é a base para o desenvolvimento de qualquer cidade. Como candidato a vereador, estou comprometido em promover investimentos e melhorias na infraestrutura para proporcionar uma melhor qualidade de vida para todos os cidadãos.",
+                "propostals": [
+                    "Investimento em pavimentação, manutenção e ampliação de vias urbanas e rodovias.",
+                    "Melhoria na iluminação pública para garantir mais segurança nas ruas e estradas.",
+                    "Ampliação e modernização da rede de saneamento básico, incluindo água potável e tratamento de esgoto.",
+                    "Desenvolvimento de projetos de drenagem para prevenir enchentes e alagamentos em áreas vulneráveis."
+                ]
+            }
+        ],
+        "slogan": "Seu espaço de beleza e bem-estar.",
+        "lat": "-23.5489",
+        "galeria": [
+            {
+                "src": "/diarley-e-wlad.jpeg",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/diarley4.jpeg",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/diarley-e-filho.webp",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/onibus-cortada.jpg",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/diarley-perfil-retrato.jpg",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/familia-vertical.webp",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/hero-horizontal.webp",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/diarley2.jpg",
+                "alt": "foto da galeria"
+            },
+            {
+                "src": "/diarley3.jpg",
+                "alt": "foto da galeria"
+            }
+        ],
+        "links": [
+            {
+                "link": "https://www.netvasco.com.br/",
+                "icon": "Facebook"
+            },
+            {
+                "link": "https://www.facebook.com/diarley.barretodasilva.1",
+                "icon": "Instagram"
+            },
+            {
+                "link": "https://www.facebook.com/diarley.barretodasilva.1",
+                "icon": "WhatsApp"
+            },
+            {
+                "link": "https://www.facebook.com/diarley.barretodasilva.1",
+                "icon": "Email"
+            }
+        ],
+        "infosPessoais": {
+            "nomeCompleto": "Diarley Barreto Silva",
+            "dataNascimento": "20/10/2002",
+            "naturalidade": "Campos dos Goytacazes, RJ",
+            "pai": "José Augusto Silva",
+            "mae": "Maria Barreto Silva",
+            "filhos": "Enzo e Valentina",
+            "profissao": "Instrutor",
+            "formacoes": [
+                "Contador",
+                "Segurança armada",
+                "Instrutor"
+            ]
+        }
+    }
+]
